@@ -1,2 +1,2 @@
-## Fragment added to activity
-![](app/src/main/res/drawable/task2.gif) 
+## Homework
+![](app/src/main/res/drawable/homework.gif) 
